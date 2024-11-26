@@ -3029,8 +3029,7 @@ fetch("https://dummyjson.com/products").then((res)=>res.json()).then((data)=>{
         lineNumber: 37,
         columnNumber: 17
     }, undefined));
-}) // const collection = [iPhone(0), iPhone(1), iPhone(2), iPhone(3), iPhone(4), iPhone(5)]
-;
+});
 
   $parcel$ReactRefreshHelpers$595d.postlude(module);
 } finally {
