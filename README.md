@@ -1,4 +1,4 @@
-This is Example of Using Parcel-Bundler to show how we can write HTML like code on javaScript file and implement some functionalities
+### This is Example of Using Parcel-Bundler to show how we can write HTML like code on javaScript file and implement some functionalities
 
 # Steps to view the Repository Working - 
 
